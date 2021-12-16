@@ -16,6 +16,7 @@
   "license": "ISC",
   "homepage": "YOUR-GITHUB-URL",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "rollbar": "^2.24.0"
   }
 }
